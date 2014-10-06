@@ -1,0 +1,88 @@
+ENVI
+description = {
+  ENVI File, Created [Fri Oct 03 09:41:46 2014]}
+samples = 59
+lines   = 72
+bands   = 1
+header offset = 0
+file type = ENVI Spectral Library
+data type = 5
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+wavelength units = Unknown
+band names = {
+ TYPE:LON; Case3Optics_SCA-A_Det130}
+spectra names = {
+ TYPE:LON; Bias=-0.29370499; SCA:A; Detector=130; Lat=48.650329; Lon=-87.961759, 
+ TYPE:LON; Bias=-0.30751133; SCA:A; Detector=130; Lat=48.637602; Lon=-87.966735, 
+ TYPE:LON; Bias=-0.33634520; SCA:A; Detector=130; Lat=48.613004; Lon=-87.976343, 
+ TYPE:LON; Bias=-0.32274485; SCA:A; Detector=130; Lat=48.601129; Lon=-87.980982, 
+ TYPE:LON; Bias=-0.34465599; SCA:A; Detector=130; Lat=48.588404; Lon=-87.985943, 
+ TYPE:LON; Bias=-0.33511019; SCA:A; Detector=130; Lat=48.563800; Lon=-87.995534, 
+ TYPE:LON; Bias=-0.31991291; SCA:A; Detector=130; Lat=48.551075; Lon=-88.000489, 
+ TYPE:LON; Bias=-0.30888891; SCA:A; Detector=130; Lat=48.538348; Lon=-88.005445, 
+ TYPE:LON; Bias=-0.31724262; SCA:A; Detector=130; Lat=48.514592; Lon=-88.014687, 
+ TYPE:LON; Bias=-0.32120085; SCA:A; Detector=130; Lat=48.489139; Lon=-88.024582, 
+ TYPE:LON; Bias=-0.32533360; SCA:A; Detector=130; Lat=48.501865; Lon=-88.019635, 
+ TYPE:LON; Bias=-0.29951572; SCA:A; Detector=130; Lat=48.466230; Lon=-88.033481, 
+ TYPE:LON; Bias=-0.33213282; SCA:A; Detector=130; Lat=48.451804; Lon=-88.039085, 
+ TYPE:LON; Bias=-0.31430531; SCA:A; Detector=130; Lat=48.439076; Lon=-88.044027, 
+ TYPE:LON; Bias=-0.33075571; SCA:A; Detector=130; Lat=48.417014; Lon=-88.052590, 
+ TYPE:LON; Bias=-0.34452105; SCA:A; Detector=130; Lat=48.401739; Lon=-88.058514, 
+ TYPE:LON; Bias=-0.33075571; SCA:A; Detector=130; Lat=48.389859; Lon=-88.063122, 
+ TYPE:LON; Bias=-0.34572840; SCA:A; Detector=130; Lat=48.367797; Lon=-88.071670, 
+ TYPE:LON; Bias=-0.36499643; SCA:A; Detector=130; Lat=48.339792; Lon=-88.082509, 
+ TYPE:LON; Bias=-0.35544777; SCA:A; Detector=130; Lat=48.351673; Lon=-88.077912, 
+ TYPE:LON; Bias=-0.37330151; SCA:A; Detector=130; Lat=48.319424; Lon=-88.090388, 
+ TYPE:LON; Bias=-0.40068483; SCA:A; Detector=130; Lat=48.302451; Lon=-88.096946, 
+ TYPE:LON; Bias=-0.39650631; SCA:A; Detector=130; Lat=48.290571; Lon=-88.101533, 
+ TYPE:LON; Bias=-0.35666037; SCA:A; Detector=130; Lat=48.270201; Lon=-88.109398, 
+ TYPE:LON; Bias=-0.33734941; SCA:A; Detector=130; Lat=48.252377; Lon=-88.116276, 
+ TYPE:LON; Bias=-0.35528326; SCA:A; Detector=130; Lat=48.240495; Lon=-88.120855, 
+ TYPE:LON; Bias=-0.34414005; SCA:A; Detector=130; Lat=48.220972; Lon=-88.128376, 
+ TYPE:LON; Bias=-0.34994555; SCA:A; Detector=130; Lat=48.191263; Lon=-88.139811, 
+ TYPE:LON; Bias=-0.32237625; SCA:A; Detector=130; Lat=48.203146; Lon=-88.135239, 
+ TYPE:LON; Bias=-0.36369276; SCA:A; Detector=130; Lat=48.172591; Lon=-88.146993, 
+ TYPE:LON; Bias=-0.35139608; SCA:A; Detector=130; Lat=48.153917; Lon=-88.154172, 
+ TYPE:LON; Bias=-0.35269690; SCA:A; Detector=130; Lat=48.141183; Lon=-88.159065, 
+ TYPE:LON; Bias=-0.35269690; SCA:A; Detector=130; Lat=48.123359; Lon=-88.165910, 
+ TYPE:LON; Bias=-0.34581518; SCA:A; Detector=130; Lat=48.103838; Lon=-88.173403, 
+ TYPE:LON; Bias=-0.36087275; SCA:A; Detector=130; Lat=48.091104; Lon=-88.178290, 
+ TYPE:LON; Bias=-0.36087275; SCA:A; Detector=130; Lat=48.074128; Lon=-88.184801, 
+ TYPE:LON; Bias=-0.35784149; SCA:A; Detector=130; Lat=48.041875; Lon=-88.197168, 
+ TYPE:LON; Bias=-0.35794401; SCA:A; Detector=130; Lat=48.054610; Lon=-88.192288, 
+ TYPE:LON; Bias=-0.35242701; SCA:A; Detector=130; Lat=48.025745; Lon=-88.203347, 
+ TYPE:LON; Bias=-0.36198187; SCA:A; Detector=130; Lat=48.004525; Lon=-88.211474, 
+ TYPE:LON; Bias=-0.37989712; SCA:A; Detector=130; Lat=47.992641; Lon=-88.216024, 
+ TYPE:LON; Bias=-0.34125900; SCA:A; Detector=130; Lat=47.976511; Lon=-88.222194, 
+ TYPE:LON; Bias=-0.34148979; SCA:A; Detector=130; Lat=47.954442; Lon=-88.230630, 
+ TYPE:LON; Bias=-0.33433914; SCA:A; Detector=130; Lat=47.942556; Lon=-88.235168, 
+ TYPE:LON; Bias=-0.32754755; SCA:A; Detector=130; Lat=47.927274; Lon=-88.241001, 
+ TYPE:LON; Bias=-0.32741117; SCA:A; Detector=130; Lat=47.893311; Lon=-88.253945, 
+ TYPE:LON; Bias=-0.32616329; SCA:A; Detector=130; Lat=47.905198; Lon=-88.249414, 
+ TYPE:LON; Bias=-0.31383133; SCA:A; Detector=130; Lat=47.878878; Lon=-88.259441, 
+ TYPE:LON; Bias=-0.32741117; SCA:A; Detector=130; Lat=47.855103; Lon=-88.268495, 
+ TYPE:LON; Bias=-0.30967379; SCA:A; Detector=130; Lat=47.843216; Lon=-88.273021, 
+ TYPE:LON; Bias=-0.32754755; SCA:A; Detector=130; Lat=47.829633; Lon=-88.278192, 
+ TYPE:LON; Bias=-0.32502794; SCA:A; Detector=130; Lat=47.805861; Lon=-88.287240, 
+ TYPE:LON; Bias=-0.33043909; SCA:A; Detector=130; Lat=47.793126; Lon=-88.292086, 
+ TYPE:LON; Bias=-0.35114622; SCA:A; Detector=130; Lat=47.780392; Lon=-88.296930, 
+ TYPE:LON; Bias=-0.32905579; SCA:A; Detector=130; Lat=47.756623; Lon=-88.305957, 
+ TYPE:LON; Bias=-0.33193493; SCA:A; Detector=130; Lat=47.731999; Lon=-88.315300, 
+ TYPE:LON; Bias=-0.32513809; SCA:A; Detector=130; Lat=47.707374; Lon=-88.324636, 
+ TYPE:LON; Bias=-0.30565548; SCA:A; Detector=130; Lat=47.693788; Lon=-88.329781, 
+ TYPE:LON; Bias=-0.29872513; SCA:A; Detector=130; Lat=47.681899; Lon=-88.334285, 
+ TYPE:LON; Bias=-0.27666950; SCA:A; Detector=130; Lat=47.658121; Lon=-88.343287, 
+ TYPE:LON; Bias=-0.27682209; SCA:A; Detector=130; Lat=47.644533; Lon=-88.348427, 
+ TYPE:LON; Bias=-0.30993795; SCA:A; Detector=130; Lat=47.632645; Lon=-88.352924, 
+ TYPE:LON; Bias=-0.28762293; SCA:A; Detector=130; Lat=47.609715; Lon=-88.361590, 
+ TYPE:LON; Bias=-0.28251219; SCA:A; Detector=130; Lat=47.582542; Lon=-88.371854, 
+ TYPE:LON; Bias=-0.31396246; SCA:A; Detector=130; Lat=47.594432; Lon=-88.367365, 
+ TYPE:LON; Bias=-0.29068804; SCA:A; Detector=130; Lat=47.560458; Lon=-88.380189, 
+ TYPE:LON; Bias=-0.27697039; SCA:A; Detector=130; Lat=47.545170; Lon=-88.385956, 
+ TYPE:LON; Bias=-0.26170731; SCA:A; Detector=130; Lat=47.532433; Lon=-88.390759, 
+ TYPE:LON; Bias=-0.25892782; SCA:A; Detector=130; Lat=47.511199; Lon=-88.398764, 
+ TYPE:LON; Bias=-0.27127123; SCA:A; Detector=130; Lat=47.495060; Lon=-88.404844, 
+ TYPE:LON; Bias=-0.26309538; SCA:A; Detector=130; Lat=47.483169; Lon=-88.409323, 
+ TYPE:LON; Bias=-0.26587343; SCA:A; Detector=130; Lat=47.468728; Lon=-88.414759}

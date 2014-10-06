@@ -1,0 +1,17 @@
+ENVI
+description = {
+  Band Math Result, Expression = [(B11*0.98595542*0.707359) +
+  (0.707359*(1-0.98595542)*2.71063)+1.86786] B11:Band
+  3:MOD11_L2_A2013126_1745_Radiance [Tue Jun 24 14:38:59 2014]}
+samples = 1354
+lines   = 2030
+bands   = 1
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+wavelength units = Unknown
+band names = {
+ Band Math ((B11*0.98595542*0.707359)+(0.707359*(1-0.98595542)*2.71063)+1.86786)}

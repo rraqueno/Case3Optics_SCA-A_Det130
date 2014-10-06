@@ -1,0 +1,15 @@
+ENVI
+description = {
+  Create New File Result [Tue Jun 24 14:44:26 2014]}
+samples = 271
+lines   = 406
+bands   = 1
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+wavelength units = Unknown
+band names = {
+ (271x406):Longitude of every 5 scan lines and 5 pixels}
